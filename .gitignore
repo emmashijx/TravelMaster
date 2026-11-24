@@ -1,0 +1,12 @@
+# Local tools and operating system files
+/.agents/
+/.codex/
+.DS_Store
+
+# Local credentials and database files
+.env*
+.dev.vars*
+*.pem
+*.sqlite
+*.sqlite3
+*.db
