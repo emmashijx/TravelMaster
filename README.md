@@ -31,5 +31,6 @@ npm run dev -- --hostname 127.0.0.1
 | [`sites/travelmaster/db/`](sites/travelmaster/db/) · [`drizzle/`](sites/travelmaster/drizzle/) | D1 数据结构和 SQL 迁移 |
 | [`sites/travelmaster/README.md`](sites/travelmaster/README.md) | Vinext、Cloudflare Worker 和 Sites 运行说明 |
 | [`openspec/`](openspec/) | OpenSpec 配置与规格目录 |
+| [`docs/chatgpt/`](docs/chatgpt/) | [「旅行网站原型 czech」对话存档](docs/chatgpt/czech-travel-website-prototype.md) |
 
 旅行记录保存在运行环境的 D1 数据库中。托管版本通过 ChatGPT Sites 验证用户身份，空间成员共享数据，成员范围由站点的访问设置控制。
